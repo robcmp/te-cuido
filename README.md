@@ -1,1 +1,11 @@
-Home (https://drive.google.com/file/d/1tauWXXFU47PG8acUOAcz7PzibXloIxKb/view?usp=sharing)
+# Te-Cuido
+
+### Made with ❤ by:
+
+🔗 [Ruben Colmenares](https://github.com/rubenucv)
+
+🔗 [Carlos Martinez](https://github.com/muscatelli)
+
+🔗 [Ariel Marvin](https://github.com/arielstark1)
+
+🔗 [Roberto Mendoza](https://github.com/robcmp)
